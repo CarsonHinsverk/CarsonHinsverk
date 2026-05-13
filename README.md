@@ -1,3 +1,9 @@
+<p align="center" dir="auto">
+    <a href="https://docs.google.com/document/d/1ulB6rGRe-RjlFXpExGTYIBvfHqikTYnypJDUfu2z5lg/edit?usp=drive_link" rel="nofollow">
+      Resume
+    </a>
+</p>
+
 <h1 align="center">👨‍💻 Carson's Dev Profile 👨‍💻</h1>
 
 <p align="center">
