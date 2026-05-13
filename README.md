@@ -95,13 +95,6 @@
   </table>
 </p>        
 
-<h3 align="center">Extraneous info:
-I like sandbox games</h3>
-<p align="center">
-  <img width="2400" height="960" alt="Capture 2025-12-22 17_51_52" src="https://github.com/user-attachments/assets/31da8034-8ef1-46c2-aae8-d06c38183c4c" />
-  <img width="4080" height="2208" alt="Capture 2022-07-17 20_54_51" src="https://github.com/user-attachments/assets/9d8581ce-654a-4489-9c25-092fb422ecaa" />
-</p>
-
           
           
           
